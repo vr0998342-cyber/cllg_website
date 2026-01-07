@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background: #f4f6f9;
+}
+
+header {
+    background: #1e2a38;
+    color: white;
+    padding: 50px;
+    text-align: center;
+}
+
+.btn {
+    background: #00bcd4;
+    color: white;
+    padding: 12px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.about, .courses {
+    padding: 30px;
+    background: white;
+    margin: 20px;
+    border-radius: 8px;
+}
+
+form {
+    width: 300px;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+input, select, button {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+button {
+    background: #1e2a38;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.center {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+}
